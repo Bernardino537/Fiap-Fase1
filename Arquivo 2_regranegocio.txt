@@ -1,0 +1,1 @@
+RN 24 - Criar uma entidade relacionamento entre as tabelas cliente físico e cliente jurídico. Onde um cliente físico ou jurídico possa ser apenas um cliente, e um cliente possa ser um ou mais cliente físico ou jurídico.
